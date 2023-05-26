@@ -1,0 +1,20 @@
+body {
+    background-color: #fff;
+}
+
+.banner {
+    background-image: url("../../assets/banner.jpg");
+    height: 380px;
+    width: 100%;
+    background-position: right;
+    background-size: cover;
+    object-fit: cover;
+    position: relative;
+  }
+
+.admin_title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

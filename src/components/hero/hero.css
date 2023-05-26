@@ -1,0 +1,8 @@
+.hero_section {
+    background-image: url("../../assets/heroimage.svg");
+    height: 480px;
+    width: 100%;
+    background-position: right;
+    background-size: cover;
+    object-fit: cover;
+  }

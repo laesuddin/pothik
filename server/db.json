@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "mosnur@gmail.com",
+      "password": "$2a$10$OY2RuGrJwaj61ilYkfiCUOv.yTusBNCFm/gnjXfwPZjjrS463Xfrm",
+      "name": "Mosnur",
+      "id": 1
+    },
+    {
+      "email": "kdh@gmail.com",
+      "password": "$2a$10$iPXQWBOiQT9Z2GuxyVleIeeqzvKKgehMpcnfpEt/xn/u.xlu5wgTK",
+      "name": "sdfgsf",
+      "id": 2
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$m3MXt2aZF0OKXvh5EpY46.niOsJjfaIezMymS46HiQwpwx10ioWi2",
+      "name": "test1",
+      "id": 3
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$ErnFcgCfaO7aoxZsv1lklOXP10SihxuR/NSZXeFXytlRWUxMm0KRO",
+      "name": "test2",
+      "id": 4
+    }
+  ],
+  "blogs": [],
+  "booking": [],
+  "packages": [
+    {
+      "name": "SYLHET",
+      "description": "Lorem ipsum dolor sit amet This is Photoshop’s version of Lorem Ipsn gravida. Ing business like this takes much more effort than doing your own.",
+      "thumbnail": "https://images.unsplash.com/photo-1599137248983-e6061c27ec80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3lsaGV0JTJDJTIwYmFuZ2xhZGVzaHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "price": "1500",
+      "route": [
+        "NotunBazar",
+        "Saidabad",
+        "Sylhet"
+      ],
+      "duration": "2023-05-27",
+      "id": 1
+    },
+    {
+      "name": "Kuakata",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "thumbnail": "https://images6.fanpop.com/image/photos/41700000/Kuakata-Bangladesh-bangladesh-41724851-1280-720.jpg",
+      "price": "1600",
+      "route": [
+        "Dhaka",
+        "Borishal",
+        "Kuakata"
+      ],
+      "duration": "2023-05-22",
+      "id": 2
+    }
+  ]
+}

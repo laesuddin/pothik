@@ -1,0 +1,15 @@
+.blogcard{
+    display: flex;
+    margin: 30px;
+    justify-content: space-evenly;
+}
+
+.img{
+    min-width: 100%;
+    height: 240px;
+}
+
+.img2{
+    min-width: 100%;
+    height: 253px;
+}

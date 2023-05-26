@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jockey+One&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Inter", sans-serif;
+}
+
+h1,
+span {
+  font-family: "Jockey One", sans-serif;
+}
+
+span,
+.title {
+  letter-spacing: 4px;
+}
+
+.bus_icon {
+  color: #2d5527;
+}
